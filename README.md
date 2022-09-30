@@ -19,9 +19,9 @@ Thank you
 ### Cite
 We encourage you to cite our paper if you have used the code in your work. You can use the following BibTex citation:
 ```
-@inproceedings{lee20sigir,
+@inproceedings{--,
   author   = {Yeon{-}Chang Lee and JaeHyun Lee and DongWon Lee and Sang{-}Wook Kim},
   title     = {THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks},
-  booktitle = {},      
+  booktitle = {--},      
   year      = {2022}
 }
