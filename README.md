@@ -1,4 +1,5 @@
 # THOR
+ICDM 2022: THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks
 
 Way to preprocess dataset
 1. cd data
